@@ -1,1 +1,2 @@
 This is our first GIT class
+Adding my second line here in the text file
